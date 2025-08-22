@@ -1,0 +1,7 @@
+{
+cd ..
+  ls
+  mkdin 02_student_info
+cd 02_ .... 
+    code student_info.c
+    }
