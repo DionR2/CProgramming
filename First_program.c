@@ -14,5 +14,11 @@ the first program in c.
 // .h - header file
 #include <stdio.h>
 
-// create the main function 
-int main(void)
+// Create the main function 
+int main(void) {
+  printf("Hello\nWorld\n"); // \n (new line) - escape sequence
+
+  printf("I\nam\nready\nto\ncode!\n");
+
+return 0;
+}
